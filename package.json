@@ -15,7 +15,6 @@
     "@anthropic-ai/sdk": "^0.27.0",
     "openai": "^4.47.0",
     "youtube-transcript": "^1.2.1",
-    "@distube/ytdl-core": "^4.16.0",
     "node-fetch": "^3.3.2"
   },
   "devDependencies": {
